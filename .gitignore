@@ -1,7 +1,6 @@
-target/
-
-.vscode/
-.idea/
-.settings/
-.project
+.idea
+*.iml
+out
 .classpath
+.idea
+.project
